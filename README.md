@@ -9,10 +9,11 @@
    ##### For IOS:
 
       1- Clone the repo.
-      2- Run npm i
-      3- cd ios
-      4- run pod install
-      5- npm react-native run-ios
+      2- cd the root-folder
+      3- Run npm i
+      4- cd ios
+      5- run pod install
+      6- npm react-native run-ios
       
       
       
