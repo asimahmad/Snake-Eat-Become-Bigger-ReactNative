@@ -13,7 +13,8 @@
       3- Run npm i
       4- cd ios
       5- run pod install
-      6- npm react-native run-ios
+      6- cd ..
+      7- npm react-native run-ios
       
       
       
