@@ -5,8 +5,9 @@
 
 
 ### Steps:
+  
+   ##### For IOS:
 
-For IOS
       1- Clone the repo.
       2- Run npm i
       3- cd ios
